@@ -1,1 +1,1 @@
-# CSL4020-Deep-Learning-Lab-Submissions-
+# Lab Submissions of Deep Learning Course.
